@@ -18,7 +18,7 @@ print ga.green+'''
                                                     
         ##############################################################
         #| "WebPwn3r" Web Applications Security Scanner              #
-        #|  By Ebrahim Hegazy - @Zigoo0                              #
+        #|  By Ebrahim Hegazy - @Zigoo                              #
         #|  This Version Supports Remote Code/Command Execution, XSS #
         #|  And SQL Injection.                                       #
 	#|  Thanks @lnxg33k, @dia2diab @Aelhemily, @okamalo          #
